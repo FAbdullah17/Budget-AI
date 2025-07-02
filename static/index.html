@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Budget-AI Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>💰 Budget-AI Assistant</h1>
+
+    <form id="budget-form">
+      <label>Enter your financial question:</label>
+      <input type="text" name="question" id="question" placeholder="e.g., How can I reduce my expenses?" />
+
+      <label>Upload your bank statement (CSV/Excel):</label>
+      <input type="file" name="file" id="file" />
+
+      <button type="submit">Submit</button>
+    </form>
+
+    <div id="response-box" style="display:none;">
+      <h3>Result:</h3>
+      <p id="result-text"></p>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("budget-form").addEventListener("submit", async function (e) {
+      e.preventDefault();
+      const formData = new FormData();
+      const question = document.getElementById("question").value;
+      const file = document.getElementById("file").files[0];
+
+      formData.append("question", question);
+      if (file) formData.append("file", file);
+
+      const response = await fetch("/process", {
+        method: "POST",
+        body: formData
+      });
+
+      const result = await response.json();
+      document.getElementById("response-box").style.display = "block";
+      document.getElementById("result-text").textContent = result.response;
+    });
+  </script>
+</body>
+</html>

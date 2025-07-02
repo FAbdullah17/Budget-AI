@@ -1,0 +1,301 @@
+Date,Merchant,Category,Amount
+2025-01-03,University,Education,417.85
+2025-01-04,Walmart,Groceries,-356.8
+2025-01-04,Booking.com,Travel,413.87
+2025-01-05,Delta Airlines,Travel,-120.97
+2025-01-06,Walmart,Groceries,-390.64
+2025-01-06,Amazon,Shopping,54.99
+2025-01-07,Netflix,Subscriptions,-337.3
+2025-01-08,Landlord,Rent,381.8
+2025-01-09,Movie Theater,Entertainment,-128.26
+2025-01-09,Insurance,Healthcare,-112.33
+2025-01-11,Doctor Visit,Healthcare,-418.55
+2025-01-11,McDonald's,Dining,-338.0
+2025-01-11,Udemy,Education,-275.45
+2025-01-12,University,Education,-348.84
+2025-01-13,Starbucks,Dining,-181.61
+2025-01-13,Movie Theater,Entertainment,499.67
+2025-01-14,Gas Station,Transportation,-8.3
+2025-01-14,Comcast,Utilities,-326.91
+2025-01-14,Booking.com,Travel,-18.58
+2025-01-15,Coursera,Education,-200.75
+2025-01-16,McDonald's,Dining,476.24
+2025-01-18,Coursera,Education,160.57
+2025-01-18,Netflix,Entertainment,308.47
+2025-01-19,Comcast,Utilities,453.95
+2025-01-19,Uber,Transportation,-402.1
+2025-01-19,Starbucks,Dining,-20.59
+2025-01-20,Comcast,Utilities,-111.34
+2025-01-21,Uber,Transportation,-154.51
+2025-01-21,Spotify,Entertainment,458.39
+2025-01-21,Gas Station,Transportation,322.08
+2025-01-21,Gas Station,Transportation,-415.06
+2025-01-21,Delta Airlines,Travel,-328.19
+2025-01-21,Doctor Visit,Healthcare,-6.86
+2025-01-22,eBay,Shopping,-397.79
+2025-01-23,Movie Theater,Entertainment,-132.84
+2025-01-23,Comcast,Utilities,259.33
+2025-01-23,Insurance,Healthcare,-108.0
+2025-01-23,Gas Station,Transportation,-164.28
+2025-01-24,PG&E,Utilities,-389.85
+2025-01-24,Apple,Subscriptions,-331.59
+2025-01-25,Starbucks,Dining,-388.28
+2025-01-25,PG&E,Utilities,-340.61
+2025-01-27,Landlord,Rent,23.86
+2025-01-27,Udemy,Education,-66.17
+2025-01-27,University,Education,450.62
+2025-01-27,Comcast,Utilities,-60.79
+2025-01-27,Pharmacy,Healthcare,-371.61
+2025-01-29,Amazon,Shopping,300.77
+2025-01-29,AT&T,Utilities,-357.54
+2025-01-29,Apartment Complex,Rent,97.81
+2025-01-29,Delta Airlines,Travel,463.19
+2025-01-30,Apple,Subscriptions,-71.41
+2025-01-30,Trader Joe's,Groceries,-352.47
+2025-01-30,Uber,Transportation,-9.16
+2025-01-31,Amazon,Shopping,-478.0
+2025-02-01,University,Education,12.29
+2025-02-01,Netflix,Entertainment,-134.87
+2025-02-03,eBay,Shopping,266.77
+2025-02-03,McDonald's,Dining,-309.92
+2025-02-03,McDonald's,Dining,-299.11
+2025-02-05,Airbnb,Travel,-28.13
+2025-02-06,Amazon Prime,Subscriptions,444.51
+2025-02-07,Landlord,Rent,34.26
+2025-02-07,PG&E,Utilities,-253.98
+2025-02-07,Netflix,Entertainment,-17.72
+2025-02-08,PG&E,Utilities,-125.91
+2025-02-08,Udemy,Education,-105.27
+2025-02-08,Doctor Visit,Healthcare,-122.01
+2025-02-09,Lyft,Transportation,-59.3
+2025-02-10,Airbnb,Travel,-181.04
+2025-02-10,Netflix,Subscriptions,-185.78
+2025-02-11,PG&E,Utilities,438.0
+2025-02-14,Netflix,Entertainment,441.39
+2025-02-14,Pharmacy,Healthcare,-265.13
+2025-02-14,Netflix,Entertainment,-87.27
+2025-02-15,Target,Shopping,-433.06
+2025-02-16,Insurance,Healthcare,-190.97
+2025-02-16,Amazon Prime,Subscriptions,467.8
+2025-02-17,Target,Shopping,-419.08
+2025-02-18,Lyft,Transportation,158.61
+2025-02-18,Pharmacy,Healthcare,-421.01
+2025-02-18,Chipotle,Dining,-454.29
+2025-02-19,Trader Joe's,Groceries,410.2
+2025-02-19,Insurance,Healthcare,-417.51
+2025-02-20,Amazon,Shopping,-308.85
+2025-02-21,Landlord,Rent,129.99
+2025-02-21,Starbucks,Dining,-137.75
+2025-02-21,Apartment Complex,Rent,53.86
+2025-02-22,eBay,Shopping,-105.92
+2025-02-23,University,Education,-343.98
+2025-02-24,Gas Station,Transportation,-327.89
+2025-02-24,Starbucks,Dining,-117.11
+2025-02-25,PG&E,Utilities,-223.87
+2025-02-26,Chipotle,Dining,-154.43
+2025-02-26,Amazon,Shopping,-302.99
+2025-02-27,Apple,Subscriptions,-381.32
+2025-02-28,AT&T,Utilities,154.97
+2025-02-28,Target,Shopping,-219.84
+2025-02-28,Comcast,Utilities,-85.26
+2025-02-28,Landlord,Rent,15.14
+2025-03-01,Uber,Transportation,-245.89
+2025-03-01,Spotify,Entertainment,-144.51
+2025-03-03,Walmart,Groceries,-415.59
+2025-03-03,Gas Station,Transportation,-201.5
+2025-03-04,Coursera,Education,-63.28
+2025-03-04,PG&E,Utilities,-408.28
+2025-03-04,Coursera,Education,-257.39
+2025-03-05,McDonald's,Dining,-35.8
+2025-03-07,Coursera,Education,-347.16
+2025-03-08,Walmart,Groceries,-134.11
+2025-03-08,eBay,Shopping,-147.16
+2025-03-09,PG&E,Utilities,150.88
+2025-03-10,Trader Joe's,Groceries,-123.44
+2025-03-10,Chipotle,Dining,-182.28
+2025-03-10,Airbnb,Travel,-256.63
+2025-03-11,Comcast,Utilities,-289.1
+2025-03-11,AT&T,Utilities,-217.17
+2025-03-12,Movie Theater,Entertainment,-355.0
+2025-03-14,Apple,Subscriptions,-75.13
+2025-03-15,Starbucks,Dining,-193.31
+2025-03-16,Whole Foods,Groceries,-17.02
+2025-03-16,Chipotle,Dining,-404.07
+2025-03-17,Doctor Visit,Healthcare,-124.21
+2025-03-18,Trader Joe's,Groceries,323.24
+2025-03-19,Starbucks,Dining,346.87
+2025-03-21,Landlord,Rent,53.76
+2025-03-24,Booking.com,Travel,-479.43
+2025-03-25,University,Education,-303.22
+2025-03-26,Gas Station,Transportation,-461.8
+2025-03-26,Spotify,Entertainment,331.2
+2025-03-26,Coursera,Education,70.79
+2025-03-26,Airbnb,Travel,-287.0
+2025-03-27,Netflix,Entertainment,-472.26
+2025-03-27,Booking.com,Travel,-192.31
+2025-03-27,Insurance,Healthcare,-463.04
+2025-03-28,Lyft,Transportation,440.97
+2025-03-28,Apartment Complex,Rent,486.07
+2025-03-28,Apartment Complex,Rent,126.71
+2025-03-28,Netflix,Entertainment,127.98
+2025-03-29,Uber,Transportation,217.05
+2025-03-29,Amazon Prime,Subscriptions,74.82
+2025-03-31,Landlord,Rent,21.08
+2025-03-31,Airbnb,Travel,-232.83
+2025-03-31,Walmart,Groceries,-483.42
+2025-04-01,Gas Station,Transportation,476.53
+2025-04-02,University,Education,-159.73
+2025-04-02,Landlord,Rent,44.33
+2025-04-03,Booking.com,Travel,-465.36
+2025-04-03,Gas Station,Transportation,-493.66
+2025-04-03,Uber,Transportation,195.34
+2025-04-04,Udemy,Education,-292.72
+2025-04-05,Uber,Transportation,-130.11
+2025-04-06,PG&E,Utilities,-69.28
+2025-04-07,Landlord,Rent,181.76
+2025-04-07,Doctor Visit,Healthcare,-438.42
+2025-04-07,Whole Foods,Groceries,-475.0
+2025-04-08,Insurance,Healthcare,-106.98
+2025-04-08,Delta Airlines,Travel,-222.94
+2025-04-09,eBay,Shopping,37.74
+2025-04-09,Delta Airlines,Travel,-269.55
+2025-04-09,Booking.com,Travel,-107.0
+2025-04-10,AT&T,Utilities,110.49
+2025-04-12,AT&T,Utilities,-209.35
+2025-04-12,Comcast,Utilities,179.73
+2025-04-12,Whole Foods,Groceries,60.03
+2025-04-13,Whole Foods,Groceries,-379.3
+2025-04-14,Apple,Subscriptions,246.28
+2025-04-15,Target,Shopping,-410.78
+2025-04-15,Airbnb,Travel,-230.56
+2025-04-15,Comcast,Utilities,-125.38
+2025-04-16,Coursera,Education,-456.3
+2025-04-16,Starbucks,Dining,-316.05
+2025-04-17,Coursera,Education,-407.79
+2025-04-17,Netflix,Entertainment,-236.13
+2025-04-17,Coursera,Education,-363.16
+2025-04-18,Udemy,Education,-160.31
+2025-04-18,eBay,Shopping,-333.65
+2025-04-19,Pharmacy,Healthcare,-268.77
+2025-04-19,Doctor Visit,Healthcare,50.59
+2025-04-21,Insurance,Healthcare,-298.42
+2025-04-21,Target,Shopping,-43.92
+2025-04-21,Movie Theater,Entertainment,-103.13
+2025-04-22,Delta Airlines,Travel,-329.85
+2025-04-22,Comcast,Utilities,-80.51
+2025-04-24,Comcast,Utilities,313.86
+2025-04-24,Udemy,Education,437.47
+2025-04-24,University,Education,-347.83
+2025-04-24,Gas Station,Transportation,-173.79
+2025-04-24,Uber,Transportation,-351.57
+2025-04-25,Uber,Transportation,-484.72
+2025-04-25,Lyft,Transportation,188.15
+2025-04-25,Amazon Prime,Subscriptions,-451.73
+2025-04-26,Gas Station,Transportation,84.34
+2025-04-27,Starbucks,Dining,423.14
+2025-04-28,Spotify,Entertainment,-78.92
+2025-04-28,Uber,Transportation,-51.27
+2025-04-29,Apartment Complex,Rent,190.51
+2025-04-30,Amazon Prime,Subscriptions,-484.83
+2025-04-30,McDonald's,Dining,-181.44
+2025-04-30,Insurance,Healthcare,-373.68
+2025-04-30,Apple,Subscriptions,154.28
+2025-05-01,Apartment Complex,Rent,360.46
+2025-05-01,Lyft,Transportation,-199.99
+2025-05-01,Airbnb,Travel,-435.43
+2025-05-01,Landlord,Rent,396.44
+2025-05-03,Coursera,Education,-376.35
+2025-05-04,Airbnb,Travel,-29.94
+2025-05-05,McDonald's,Dining,-484.16
+2025-05-07,AT&T,Utilities,-365.92
+2025-05-08,Apartment Complex,Rent,409.56
+2025-05-08,PG&E,Utilities,-14.54
+2025-05-10,Amazon,Shopping,237.01
+2025-05-10,McDonald's,Dining,208.11
+2025-05-10,Apartment Complex,Rent,377.52
+2025-05-11,Pharmacy,Healthcare,-108.48
+2025-05-11,Amazon,Shopping,-367.83
+2025-05-11,Doctor Visit,Healthcare,-154.1
+2025-05-15,Uber,Transportation,167.9
+2025-05-15,Apple,Subscriptions,-43.84
+2025-05-15,Doctor Visit,Healthcare,-341.44
+2025-05-16,Apartment Complex,Rent,131.93
+2025-05-16,Movie Theater,Entertainment,317.86
+2025-05-17,Udemy,Education,-458.21
+2025-05-17,University,Education,-429.98
+2025-05-18,Airbnb,Travel,121.03
+2025-05-18,Whole Foods,Groceries,-108.33
+2025-05-19,Walmart,Groceries,149.03
+2025-05-19,Uber,Transportation,423.43
+2025-05-20,AT&T,Utilities,-442.67
+2025-05-20,Chipotle,Dining,-305.38
+2025-05-20,Amazon,Shopping,80.38
+2025-05-21,Apple,Subscriptions,-241.9
+2025-05-22,Apartment Complex,Rent,240.53
+2025-05-22,Landlord,Rent,129.3
+2025-05-23,Lyft,Transportation,-257.02
+2025-05-23,Amazon,Shopping,-116.58
+2025-05-23,Uber,Transportation,-489.24
+2025-05-23,Lyft,Transportation,423.56
+2025-05-23,Landlord,Rent,163.11
+2025-05-24,Spotify,Entertainment,-53.13
+2025-05-25,Comcast,Utilities,-211.06
+2025-05-25,Landlord,Rent,285.78
+2025-05-26,Apple,Subscriptions,-405.1
+2025-05-26,Trader Joe's,Groceries,-204.4
+2025-05-27,Pharmacy,Healthcare,-64.29
+2025-05-27,University,Education,-31.01
+2025-05-28,Apple,Subscriptions,-236.25
+2025-05-28,Pharmacy,Healthcare,-235.11
+2025-05-29,Coursera,Education,-451.34
+2025-05-30,Walmart,Groceries,-69.31
+2025-05-31,Spotify,Entertainment,-294.4
+2025-06-01,Trader Joe's,Groceries,-468.05
+2025-06-01,Uber,Transportation,-300.54
+2025-06-02,Apartment Complex,Rent,201.78
+2025-06-02,PG&E,Utilities,-226.43
+2025-06-02,Amazon,Shopping,-274.08
+2025-06-02,Netflix,Subscriptions,-490.16
+2025-06-02,Udemy,Education,-404.11
+2025-06-04,McDonald's,Dining,15.66
+2025-06-05,Lyft,Transportation,-326.11
+2025-06-07,Starbucks,Dining,-166.86
+2025-06-08,Apple,Subscriptions,-266.44
+2025-06-09,McDonald's,Dining,-207.46
+2025-06-09,Walmart,Groceries,-254.56
+2025-06-09,Chipotle,Dining,441.28
+2025-06-09,Target,Shopping,-171.93
+2025-06-09,Apple,Subscriptions,-45.84
+2025-06-11,Uber,Transportation,61.73
+2025-06-11,Landlord,Rent,252.76
+2025-06-13,Udemy,Education,222.09
+2025-06-14,Netflix,Entertainment,65.69
+2025-06-14,Whole Foods,Groceries,-128.33
+2025-06-14,Comcast,Utilities,67.08
+2025-06-14,eBay,Shopping,-69.43
+2025-06-15,Booking.com,Travel,411.19
+2025-06-15,Walmart,Groceries,-474.58
+2025-06-15,Landlord,Rent,487.49
+2025-06-16,Chipotle,Dining,38.93
+2025-06-16,Amazon,Shopping,-489.14
+2025-06-16,Uber,Transportation,-40.32
+2025-06-17,Airbnb,Travel,-24.24
+2025-06-19,Coursera,Education,-39.68
+2025-06-19,Starbucks,Dining,-485.12
+2025-06-19,Netflix,Entertainment,-487.18
+2025-06-20,Udemy,Education,334.75
+2025-06-20,Lyft,Transportation,-105.59
+2025-06-21,Starbucks,Dining,499.56
+2025-06-22,Chipotle,Dining,-372.88
+2025-06-23,Doctor Visit,Healthcare,302.63
+2025-06-24,Comcast,Utilities,-483.54
+2025-06-25,Pharmacy,Healthcare,199.17
+2025-06-26,McDonald's,Dining,-158.49
+2025-06-26,Netflix,Subscriptions,-99.37
+2025-06-28,University,Education,472.17
+2025-06-28,Target,Shopping,-133.72
+2025-06-28,Lyft,Transportation,124.14
+2025-07-01,Airbnb,Travel,-108.33
+2025-07-01,Target,Shopping,-90.63
+2025-07-01,Netflix,Entertainment,-455.63
+2025-07-01,AT&T,Utilities,363.51

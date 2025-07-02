@@ -1,0 +1,6 @@
+openai
+tavily-python
+pandas
+python-dotenv
+openpyxl
+rich
