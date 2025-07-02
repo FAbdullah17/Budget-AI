@@ -6,16 +6,14 @@ from scripts.utils import summarize_transaction_file
 from scripts.web_search import search_web
 from scripts.llm_config import ask_llm
 
-# Load environment variables
 load_dotenv()
 
-# Configure logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 
 def validate_query(query: str) -> bool:
-    return isinstance(query, str) and len(query.strip()) >= 5
+    return isinstance(query, str) and len(query.strip()) >= 3
 
 
 def answer_question(
@@ -23,7 +21,6 @@ def answer_question(
     file_path: Optional[str] = None
 ) -> str:
     try:
-        # If user uploads a bank file
         if file_path:
             summary = summarize_transaction_file(file_path)
             if query and validate_query(query):
@@ -39,12 +36,11 @@ Answer:"""
                 return ask_llm(question=query, context=summary)  # FIXED keyword
             return summary
 
-        # If user just asks a question
         elif query and validate_query(query):
             context = search_web(query)
             if not context or "No useful web content found." in context:
                 return "No useful information found via web search."
-            return ask_llm(question=query, context=context)  # FIXED keyword
+            return ask_llm(question=query, context=context) 
 
         return "Please provide a question or upload a bank file."
 

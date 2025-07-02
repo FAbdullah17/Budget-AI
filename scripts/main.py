@@ -4,14 +4,13 @@ from fastapi.staticfiles import StaticFiles
 import shutil
 import os
 
-from scripts.qa_engine import answer_question
+from scripts.engine import answer_question
 
 app = FastAPI()
 
 UPLOAD_DIR = "uploads"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
-# Serve static files at /static
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
